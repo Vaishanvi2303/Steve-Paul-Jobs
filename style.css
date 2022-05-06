@@ -1,0 +1,11 @@
+body{
+ background-color:rgba(32, 202, 123, 0.904);
+}
+h1{
+    background-color: rgb(43, 85, 30);
+    color: bisque;
+}
+#steve{
+    width:700px;
+    height:500px;
+}
